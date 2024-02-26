@@ -63,14 +63,14 @@ Fill the form and get your Copy for free
             <div className="mx-auto flex max-w-6xl justify-center px-6 lg:px-8">
               <div className="mt-8 flow-root sm:mt-16">
                 <div className="-m-2 w-fit rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10  lg:-m-4 lg:rounded-2xl lg:p-4">
-                  {/* <Image
+                  <Image
                     src="/Ebook_Visual.png"
                     alt="product preview"
                     width={500}
                     height={600}
                     quality={100}
                     className="rounded-md bg-special p-2 shadow-2xl ring-1 ring-gray-900/10 md:p-8"
-                  /> */}
+                  />
                 </div>
               </div>
             </div>
