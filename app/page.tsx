@@ -178,7 +178,7 @@ Fill the form and get your Copy for free
                 <Card className="flex flex-col items-center justify-center gap-6 p-6 md:flex-1">
                   <CardTitle>Sell Services On 0$ Investment [NOT INBOUND]</CardTitle>
                   <Image
-                    src="/card1.jpeg"
+                    src="/Sell_Services_for_Free.png"
                     alt="lead flow"
                     width={170}
                     height={170}
@@ -188,7 +188,7 @@ Fill the form and get your Copy for free
                 <Card className="flex flex-col items-center justify-center gap-6 p-6 md:flex-1">
                   <CardTitle>Increase your Lead Flow By 48.6%</CardTitle>
                   <Image
-                    src="/card2.jpeg"
+                    src="/Get_More_Leads.png"
                     alt="increase lead flow"
                     width={170}
                     height={170}
@@ -200,7 +200,7 @@ Fill the form and get your Copy for free
                   <CardTitle>Make Profit from a Non Profitable Funnel</CardTitle>
                 
                   <Image
-                    src="/card3.jpeg"
+                    src="/Make_Profit_With_Funnel.png"
                     alt="Make profit"
                     width={170}
                     height={170}
